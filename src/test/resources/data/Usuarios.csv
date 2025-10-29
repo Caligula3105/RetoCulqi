@@ -1,0 +1,4 @@
+tipo,estado,nombre,email,contrasenia
+temporal,activo,Ana,anaF@mail.com,Passw1234
+temporal,inactivo,Beto,beto@mail.com,Pass5678
+permanente,activo,Alexis,carlos1624@mail.com,Pass9999
